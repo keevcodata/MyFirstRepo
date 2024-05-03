@@ -1,2 +1,1 @@
-print("Hello Madlang People!")
-print("Mori Mori")
+print("Hello World")
